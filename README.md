@@ -1,21 +1,35 @@
-Forage-TATA-Data-Visualisation
+# Forage-TATA-Data-Visualisation
+This is a Virtual internship programme in which we will be using Excel, Power Bi and Microsoft PPT for data cleaning, data analyzing, data visualization and creating data insights to answer business related questions
 
-This virtual internship program focuses on using Excel, Power BI, and Microsoft PowerPoint for data cleaning, data analysis, data visualization, and creating insights to address business questions.
 
 Introduction:
 
-An online retail store has hired you as a consultant to review their data and provide insights for the CEO and CMO. The business is performing well, and management wants to identify the main factors contributing to revenue to plan strategically for next year. They are interested in viewing metrics from both operations and marketing perspectives. Management also wants to expand the business and seeks guidance on areas that are performing well so they can focus on what works. They would like to see various metrics based on available demographic information.
+An online retail store has hired you as a consultant to review their data and provide insights that would be valuable to the CEO and CMO of the business. The business has been performing well and the management wants to analyse what the major contributing factors are to the revenue so they can strategically plan for next year.
+The leadership is interested in viewing the metrics from both an operations and marketing perspective. Management also intends to expand the business and is interested in seeking guidance into areas that are performing well so they can keep a clear focus on what’s working. They would also like to view different metrics based on the demographic information that is available in the data.
 
-Task 1: A meeting with the CEO and CMO is scheduled for next month, and you need to draft relevant analytics and insights to evaluate current business performance and suggest metrics for expansion decision-making. To prepare for the meeting, draft questions that you think will be important and relevant to both the CEO and the CMO. This preparation will guide you as you develop your presentation. For this task, you only need to draft the questions. Consider both quantitative and qualitative aspects. Create four questions that you think each business leader will ask and want to know the answers to. Ensure your questions are distinct, as the CEO and CMO view business decisions differently.
+Task 1:
+A meeting with the CEO and CMO has been scheduled for next month and you need to draft the relevant analytics and insights that would help evaluate the current business performance and suggest metrics that would enable them to make the decision on expansion.
+To prepare for your meeting, you need to draft questions that you think will be important and relevant to the CEO and CMO. This preparation will be your guide as you develop your presentation.
+For this task, you are only required to draft the questions. Make sure to think both quantitatively and qualitatively
+Create a set of four questions that you anticipate each business leader will ask and want to know the answers to. Make sure you differentiate your questions, as both the CEO and CMO view business decisions through different lenses
 
-Task 2: In this task, you will create visuals based on four of the questions that the CEO and CMO have requested. You can use either Tableau or Power BI for this. Before starting the analysis, ensure that the data is properly cleaned. Create each visual on a separate tab, naming the tabs according to the question number. 
+Task 2:
+In this task, you will create the visuals around four of the questions that the CEO and CMO have requested. You can use either Tableau or Power BI to create the visuals.
+Before you can begin the analysis, make sure that the data is cleaned properly.
+Create each visual on a separate tab with the name of the tab displaying the question number.
+Question 1
+The CEO of the retail store is interested to view the time series of the revenue data for the year 2011 only. He would like to view granular data by looking into revenue for each month. The CEO is interested in viewing the seasonal trends and wants to dig deeper into why these trends occur. This analysis will be helpful for the CEO to forecast for the next year.
+Question 2
+The CMO is interested in viewing the top 10 countries which are generating the highest revenue. Additionally, the CMO is also interested in viewing the quantity sold along with the revenue generated. The CMO does not want to have the United Kingdom in this visual.
+Question 3
+The CMO of the online retail store wants to view the information on the top 10 customers by revenue. He is interested in a visual that shows the greatest revenue generating customer at the start and gradually declines to the lower revenue generating customers. The CMO wants to target the higher revenue generating customers and ensure that they remain satisfied with their products.
+Question 4
+The CEO is looking to gain insights on the demand for their products. He wants to look at all countries and see which regions have the greatest demand for their products. Once the CEO gets an idea of the regions that have high demand, he will initiate an expansion strategy which will allow the company to target these areas and generate more business from these regions. He wants to view the entire data on a single view without the need to scroll or hover over the data points to identify the demand. There is no need to show data for the United Kingdom as the CEO is more interested in viewing the countries that have expansion opportunities.
 
-Question 1: The CEO is interested in a time series of revenue data for the year 2011. He wants to see detailed monthly revenue figures. The CEO is looking for seasonal trends and wants to understand why these trends occur. This analysis will help him forecast for next year.
 
-Question 2: The CMO wants to view the top 10 countries generating the highest revenue. Additionally, he wants to see the quantity sold along with the revenue. The CMO does not want the United Kingdom included in this visual.
+Task3: 
+Develop a script and record a video presenting your findings to the CEO and CMO based on the four questions they asked and the visuals you created in the previous tasks.
 
-Question 3: The CMO wants information on the top 10 customers by revenue. He is looking for a visual that shows the customer generating the most revenue at the top, gradually declining to the lower revenue customers. The CMO aims to target the high-revenue customers and ensure their satisfaction with the products.
 
-Question 4: The CEO wants insights on product demand. He wants to analyze all countries and identify which regions have the highest demand for their products. Once he understands the regions with high demand, he will develop an expansion strategy targeting these areas to generate more business. He wants to see all data on a single view without scrolling or hovering over data points to identify demand. The United Kingdom does not need to be included, as the CEO is more interested in potential expansion opportunities.
-
-Task 3: Create a script and record a video presenting your findings to the CEO and CMO based on the four questions they asked and the visuals you created in the previous tasks.
+Dashboard:
+![TATA Visualization Dasboard Snapshot](https://github.com/Akash7142/Forage-TATA-Data-Visualisation/assets/131694327/007972a7-d0df-4b81-be05-c41428601a88)
